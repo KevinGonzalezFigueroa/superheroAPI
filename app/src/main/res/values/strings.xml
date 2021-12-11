@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHubHunter</string>
+    <string name="Launch">Launch</string>
+    <string name="launch_pressed">Search_Pressed</string>
+    <string name="clear">Clear</string>
+</resources>
